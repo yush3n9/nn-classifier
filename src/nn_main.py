@@ -9,7 +9,7 @@ from keras.models import Sequential
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
 
-from src.data.newsgroup_dataprovider import TwentyNewsgroup
+from src.utils.newsgroup_dataprovider import TwentyNewsgroup
 
 # ----------------------
 # Fetch train dataset:
