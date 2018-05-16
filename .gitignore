@@ -1,0 +1,9 @@
+models/
+data/
+logs/
+.idea/
+venv/
+
+*.log
+*.pyc
+*.swp
